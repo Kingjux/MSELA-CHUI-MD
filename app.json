@@ -2,7 +2,7 @@
   "name":"MSELA CHUI MD 🐅🐅",
   "description":"MSELA CHUI MD MULTIDIVICE CREATED BY OFFICIAL CHUI MSELA",
   "keywords":["VENOCYBER","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+  "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
   "repository":"https://github.com/Mselachui03/MSELA-CHUI-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+      "value":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
       "required":false
        
      },
