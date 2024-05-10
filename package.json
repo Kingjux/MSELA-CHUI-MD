@@ -2,11 +2,11 @@
   "name": "Mselachui03",
   "version": "2.0.0",
   "description": "",
-  "main": "wasi.js",
+  "main": "msela.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node wasi.js",
-    "mselachui03": "pm2 start wasi.js --attach --max-memory-restart 490M",
+    "s": "node msela.js",
+    "mselachui03": "pm2 start msela.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
