@@ -1,12 +1,12 @@
 {
-  "name": "Msela03",
+  "name": "Mselachui03",
   "version": "2.0.0",
   "description": "",
   "main": "wasi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node wasi.js",
-    "msela03": "pm2 start wasi.js --attach --max-memory-restart 490M",
+    "mselachui03": "pm2 start wasi.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
@@ -15,9 +15,9 @@
     "wasi",
     "whatsapp",
     "msela-chui-md",
-    "msela03"
+    "mselachui03"
   ],
-  "author": "Msela03",
+  "author": "Mselachui03",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
