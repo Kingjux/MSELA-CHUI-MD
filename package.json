@@ -1,23 +1,23 @@
 {
-  "name": "Itxxwasi",
+  "name": "Msela03",
   "version": "2.0.0",
   "description": "",
   "main": "wasi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node wasi.js",
-    "itxxwasi": "pm2 start wasi.js --attach --max-memory-restart 490M",
+    "msela03": "pm2 start wasi.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
-    "WASI",
+    "VENOCYBER",
     "Baileys",
     "wasi",
     "whatsapp",
-    "unique-md",
-    "wasi"
+    "msela-chui-md",
+    "msela03"
   ],
-  "author": "Itxxwasi",
+  "author": "Msela03",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
